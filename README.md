@@ -7,26 +7,25 @@ Now that you know this, let begin.
 
 </div>
  <summary><h2>Summary</h2></summary>
-
+`css 
 [Phone](#hone)
-├─[Android](#android)  
+├─[Android](#android)
 │ ├─[Escape Google]("escapegoogle")
-│ │ ├──[OS]("androidos") 
+│ │ ├──[OS]("androidos")
 │ │ └─[Alternative to Google's Product](#alternativetogoogle)
 │ └─[Networking](#androidnetworking)
 │   ├─[VPN](#androidvpn)
 │   ├─[Proxy](#androidproxy)
 │   └─[Browser](#androidbrowser)
 │
-└─[IOS](#ios) 
+└─[IOS](#ios)
   ├─[Escape Apple](#escapeios)
-  │ ├─[OS](#iosos) 
+  │ ├─[OS](#iosos)
   │ ├─[Alternative to Apple's Product](#alternativetoapple)
   └─[Networking](#iosnetworking)
     ├─[VPN](#iosvpn)
-    ├─[Proxy](iosproxy) 
+    ├─[Proxy](iosproxy)
     └─[Browser](#iosbrowser)
-
 [PC](#pc) 
 ├─[OS](#pcos) 
 ├─[Networking](#pcnetworking) 
@@ -38,7 +37,6 @@ Now that you know this, let begin.
   ├─[Coding](#pcalternativetoccoding) 
   ├─[AI](#pcalternativetoai) 
   └─[Gaming](#pcalternativetogaming) 
-
 [Other](#other)
 ├─[Cloud](#cloud) 
 │ ├─[Cloud](#ccloud) 
@@ -47,7 +45,7 @@ Now that you know this, let begin.
 └─[Mail](#mail) 
   ├─[Mail provider](#mailprovider) 
   └─[Mail client](#mailclient)
-
+`
 
 
 
