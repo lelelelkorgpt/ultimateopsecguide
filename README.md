@@ -20,7 +20,6 @@ Now that you know this, let's begin.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.1 [VPN](#androidvpn)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.2 [Proxy](#androidproxy)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.2.3 [Browser](#androidbrowser)<br>
-<br>
 &nbsp;&nbsp;1.2 [IOS](#ios)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.2.1 [Escape Apple](#escapeios)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1.1 [OS](#iosos)<br>
@@ -52,3 +51,39 @@ Now that you know this, let's begin.
 &nbsp;&nbsp;&nbsp;&nbsp;3.2.2 [Mail client](#mailclient)
 
 </details>
+
+---
+
+<details>
+  <summary><h2>Phone</h2></summary>
+  ---
+  <details>
+    <summary><h2>Android</h2></summary>
+    <details>
+      <summary><h2>Escape Google</h2></summary>
+      <details>
+        <summary><h2>OS</h2></summary>
+      </details>
+      <details>
+        <summary><h2>Alternative to Google's Product</h2></summary>
+      </details>
+    </details>
+    <details>
+      <summary><h2>Networking</h2></summary>
+      <details>
+        <summary><h2>VPN</h2></summary>
+      </details>
+      <details>
+        <summary><h2>Proxy</h2></summary>
+      </details>
+      <details>
+        <summary><h2>Browser</h2></summary>
+      </details>
+    </details>
+  </details>
+  ---
+  <details>
+    <summary><h2>IOS</h2></summary>
+  </details>
+</details>
+---
